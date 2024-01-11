@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "react-navigation",
-    "slug": "react-navigation",
+    "name": "ExpensesTracker",
+    "slug": "ExpensesTracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "backgroundColor": "#24180f",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -26,6 +25,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0051042a-e282-4aa7-8b45-a7c521c89f1b"
+      }
     }
   }
 }
